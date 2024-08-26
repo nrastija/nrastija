@@ -42,6 +42,9 @@ to learn new skills and challenging myself in new, unexplored domains of the pro
 
 </p>
 
+<h3>Top Languages:</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrastija&layout=compact&theme=dark&hide_border=true)
 
 <h3>My Soft Skills:</h3>
 
@@ -59,9 +62,11 @@ to learn new skills and challenging myself in new, unexplored domains of the pro
   <li>❤️ <b>Empathy</b></li>
 </ul>
 
-<h3>My GitHub contributions summary</h3>
+<h3>My GitHub contributions summary:</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nrastija&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+<h3>My GitHub stats:</h3>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nrastija&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
