@@ -17,21 +17,18 @@ to learn new skills and challenging myself in new, unexplored domains of the pro
  
 
   <b>Web Development:</b><br>
-  <a href="https://media.makeameme.org/created/ive-been-a-5aec4b.jpg" target="_blank">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  </a>
 
   <b>Databases:</b><br>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=database&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
  
-
   <b>Communication and PM tools:</b><br>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
@@ -39,7 +36,6 @@ to learn new skills and challenging myself in new, unexplored domains of the pro
   <img alt="Confluence" src="https://img.shields.io/badge/Confluence-00376B?style=flat-square&logo=confluence&logoColor=white" />
   <img alt="Microsoft Project" src="https://img.shields.io/badge/Microsoft_Project-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
  
-  
   <b>Dev Tools:</b><br>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
@@ -64,6 +60,7 @@ to learn new skills and challenging myself in new, unexplored domains of the pro
 </ul>
 
 <h3>My GitHub contributions summary</h3>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nrastija&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nrastija&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
