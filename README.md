@@ -44,7 +44,7 @@ to learn new skills and challenging myself in new, unexplored domains of the pro
 
 <h3>Top Languages:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrastija&layout=compact&theme=dark&hide_border=true&cache_seconds=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrastija&layout=compact&theme=dark&hide_border=true&cache_seconds=1)
 
 <h3>My Soft Skills:</h3>
 
