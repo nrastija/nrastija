@@ -59,7 +59,6 @@ to learn new skills and challenging myself in new, unexplored domains of the pro
   <li>💡 <b>Brainstorming</b></li>
   <li>🔍 <b>Problem-Solving</b></li>
   <li>⏳ <b>Time Management</b></li>
-  <li>❤️ <b>Empathy</b></li>
 </ul>
 
 <h3>My GitHub contributions summary:</h3>
